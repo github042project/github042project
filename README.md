@@ -66,14 +66,6 @@ You can explore all my repos here 👉
 
 ---
 
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-github042project.vercel.app/api?username=github042project&show_icons=true&theme=radical" alt="stats"/>
-</p>
-
-
----
-
 ### 📫 Contact Me  
 📍 Chennai, Tamil Nadu  
 📧 **garvitavarshney042@gmail.com**  
