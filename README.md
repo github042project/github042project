@@ -12,10 +12,32 @@ Motivated and creative CSE (Data Science) undergraduate passionate about technol
 ![](https://nirzak-streak-stats.vercel.app/?user=github042project&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=github042project&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=github042project&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🏆 Certifications
+NPTEL – Fundamentals of OOP
+MyCaptain – Web Development
+Hackathon – Innofusion'25
+Pariksha Pe Charcha – Ministry of Education
+AI Tools & ChatGPT Workshop – be10x
+Create presentations with AI
+Analyze data
+Debug/code with AI
+🧩 Featured Projects
+Here are some of the projects I’m proud of:
 
----
-[![](https://visitcount.itsvg.in/api?id=github042project&icon=0&color=0)](https://visitcount.itsvg.in)
+🔹 DSA Handbook (Python/C++) – Core DSA codes + explanations
+🔹 E-Commerce Website (Django) – Backend + UI/UX
+🔹 Python Mini-Projects – Utilities, patterns, basic programs
+🔹 Frontend UI Projects – HTML/CSS/JS UI experiments
 
+(I will keep adding more industry-level projects soon!)
+
+You can explore all my repos here 👉
+https://github.com/github042project?tab=repositories
+
+📫 Contact Me
+📍 Chennai, Tamil Nadu
+📧 garvitavarshney042@gmail.com
+📱 +91 9266515915
+
+⭐ Thanks for visiting — feel free to check out my work or connect!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
