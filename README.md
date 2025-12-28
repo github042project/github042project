@@ -12,7 +12,7 @@ Motivated and creative CSE (Data Science) undergraduate passionate about technol
 ![](https://nirzak-streak-stats.vercel.app/?user=github042project&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=github042project&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🏆 Certifications
+#🏆 Certifications
 NPTEL – Fundamentals of OOP
 MyCaptain – Web Development
 Hackathon – Innofusion'25
@@ -21,7 +21,8 @@ AI Tools & ChatGPT Workshop – be10x
 Create presentations with AI
 Analyze data
 Debug/code with AI
-🧩 Featured Projects
+
+#🧩 Featured Projects
 Here are some of the projects I’m proud of:
 
 🔹 DSA Handbook (Python/C++) – Core DSA codes + explanations
@@ -31,7 +32,7 @@ Here are some of the projects I’m proud of:
 
 (I will keep adding more industry-level projects soon!)
 
-You can explore all my repos here 👉
+#You can explore all my repos here 👉
 https://github.com/github042project?tab=repositories
 
 📫 Contact Me
@@ -39,5 +40,5 @@ https://github.com/github042project?tab=repositories
 📧 garvitavarshney042@gmail.com
 📱 +91 9266515915
 
-⭐ Thanks for visiting — feel free to check out my work or connect!
+#⭐ Thanks for visiting — feel free to check out my work or connect!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
